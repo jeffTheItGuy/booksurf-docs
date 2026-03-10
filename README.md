@@ -15,4 +15,4 @@ Booksurf is a modern bookmark management platform that lets you organize, share,
 
 ## Contact
 
-Email: mail@nimbusurf.com
+Email: booksurf@nimbusurf.com
